@@ -1,1 +1,1 @@
-![My Image](./clock%20(1).png)
+![My Image](image/clock(1).png)
