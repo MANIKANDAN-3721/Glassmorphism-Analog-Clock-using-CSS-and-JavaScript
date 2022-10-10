@@ -1,1 +1,1 @@
-![My Image](image/clock(1).png)
+![My Image](images/clock(1).png)
